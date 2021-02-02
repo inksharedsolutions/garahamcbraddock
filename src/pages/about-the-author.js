@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/author/author.jpg'
+import AuthorImg from '../../static/author/dummy.png'
 import { Helmet } from "react-helmet"
 const ATB = (props)=>{
 	
@@ -40,11 +40,11 @@ const ATB = (props)=>{
                             id="author">
 
                             <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Graham Braddock began work as a radio technician in New Zealand, continued in specialized electronics in NZ and Australia including the short-lived copper mine on Bougainville Island. He is retired in Queensland with his wife, Kaye and three cats.
                             </p>
 
                             <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Operation Gravelrash fulfils his long-held inteion to write a novel and second book with Superintendent Lawrence Parry, set in Queensland and Ukraine, is nearing completion with another of the ongoing series at the planning stage.
                             </p>
 
                             <p>

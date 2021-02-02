@@ -1,6 +1,6 @@
 import React,{useEffect, useRef, useState} from 'react'
 import {Link} from 'gatsby'
-import AuthorImg from '../../static/author/author.jpg'
+import AuthorImg from '../../static/author/dummy.png'
 
 const UpperMain =()=>{
 

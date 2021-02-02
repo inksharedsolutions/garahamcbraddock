@@ -22,18 +22,18 @@ const Banner = ()=>{
                                     <h1>
                                         <span className="first-block">
                                             <span>
-                                                OPERATION
+                                            Things aren't always as they seem
                                             </span>
                                         </span>
 
                                         <span className="second-block">
                                             <span id="color-o">
-                                             GRAVELRASH
+
                                             </span>
                                         </span>
                                     </h1>
                                     <p>
-                                    Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions
+                                    Things aren't always as they seem. Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions
                                     </p>
 
                                     <button>
