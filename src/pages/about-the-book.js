@@ -42,9 +42,12 @@ const ATB = (props)=>{
                                     imgSrc: Book1,
                                     id:'the_gifted_one',
                                     content:
-                                    `<p> In Queensland, two seemingly unconnected investigations are underway; a stalled search for a murderer by the state police and mysterious shipments of cement that have set bells ringing in the Australian Federal Police. As the events converge, a cattle property in the Central Queensland outback becomes the unlikely setting for a series of incidents that threaten Australia’s economy and national security.
-In the midst of Cyclone Oswald, which paralyses much of Queensland and northern New South Wales, Superintendent Lawrence Parry and his handpicked team of undercover and specialist agents must fit together the jigsaw puzzle of clues. The Bryants, a middle-aged couple who live on the remote property, struggle to remain viable in the face of a neighbouring cattle station that is the operational base for a multimillion-dollar enterprise. But these neighbours’ past and present activities could have implications that are not just local, but global. Meanwhile, Parry is caught in a moral dilemma as he relies on a bereaved family, a disgraced university professor, an investigative reporter, and a retired mining engineer to uncover the truth. </p>
-
+                                    `
+                                    <p> 
+                                        In Queensland, two seemingly unconnected investigations are underway; a stalled search for a murderer by the state police and mysterious shipments of cement that have set bells ringing in the Australian Federal Police. As the events converge, a cattle property in the Central Queensland outback becomes the unlikely setting for a series of incidents that threaten Australia’s economy and national security.
+                                    </p>
+                                    <p>
+                                        In the midst of Cyclone Oswald, which paralyses much of Queensland and northern New South Wales, Superintendent Lawrence Parry and his handpicked team of undercover and specialist agents must fit together the jigsaw puzzle of clues. The Bryants, a middle-aged couple who live on the remote property, struggle to remain viable in the face of a neighbouring cattle station that is the operational base for a multimillion-dollar enterprise. But these neighbours’ past and present activities could have implications that are not just local, but global. Meanwhile, Parry is caught in a moral dilemma as he relies on a bereaved family, a disgraced university professor, an investigative reporter, and a retired mining engineer to uncover the truth. </p>
                                     <p>
                                     In this crime mystery, a team of federal officers investigates events that could not only affect Australia’s international trade, but also catapult the nation into a war of words with nuclear overtones.
                                     </p>

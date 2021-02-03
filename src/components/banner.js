@@ -33,7 +33,7 @@ const Banner = ()=>{
                                         </span>
                                     </h1>
                                     <p>
-                                    Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions
+                                    Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions.
                                     </p>
 
                                     <button>
