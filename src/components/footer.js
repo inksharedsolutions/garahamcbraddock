@@ -11,15 +11,15 @@ const Footer = ()=>{
                 <div className="container-gt" id="footer-info">
                     <h1>Graham C. Braddock</h1>
                     <p className="param-footer">
-                        Graham C. Braddock loves to hear from readers. You can reach her via email. 
-                        Feel free to send questions about writing, her works, interviews 
+                        Graham C. Braddock loves to hear from readers. You can reach him via email. 
+                        Feel free to send questions about writing, him works, interviews 
                         and other publicity matters.
                     </p> 
 
                     <nav>
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com/Elena-Shea-MD-105336834588955/"
+                                <a href="https://www.facebook.com/Graham-Braddock-291705901671059/?ref=bookmarks"
                                    target="_blank">
                                     <FontAwesomeIcon
                                         className='font-awesome'
@@ -49,7 +49,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/book/show/54465736-health-is-here">
+                                    href="https://www.goodreads.com/book/show/42737686-operation-gravelrash">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />

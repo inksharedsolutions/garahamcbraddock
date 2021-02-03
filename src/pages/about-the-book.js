@@ -46,7 +46,7 @@ const ATB = (props)=>{
 In the midst of Cyclone Oswald, which paralyses much of Queensland and northern New South Wales, Superintendent Lawrence Parry and his handpicked team of undercover and specialist agents must fit together the jigsaw puzzle of clues. The Bryants, a middle-aged couple who live on the remote property, struggle to remain viable in the face of a neighbouring cattle station that is the operational base for a multimillion-dollar enterprise. But these neighbours’ past and present activities could have implications that are not just local, but global. Meanwhile, Parry is caught in a moral dilemma as he relies on a bereaved family, a disgraced university professor, an investigative reporter, and a retired mining engineer to uncover the truth. </p>
 
                                     <p>
-                                    In this crime mystery, a team of federal officers investigates events that could not only affect Australia’s international trade, but also catapult the nation into a war of words with nuclear ov
+                                    In this crime mystery, a team of federal officers investigates events that could not only affect Australia’s international trade, but also catapult the nation into a war of words with nuclear overtones.
                                     </p>
                                     `,
                                     

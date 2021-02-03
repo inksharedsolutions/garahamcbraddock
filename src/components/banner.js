@@ -22,7 +22,7 @@ const Banner = ()=>{
                                     <h1>
                                         <span className="first-block">
                                             <span>
-                                            Things aren't always as they seem
+                                            Things aren't always as they seem.
                                             </span>
                                         </span>
 
@@ -33,7 +33,7 @@ const Banner = ()=>{
                                         </span>
                                     </h1>
                                     <p>
-                                    Things aren't always as they seem. Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions
+                                    Keep your eyes open, learn to trust your instincts, and be vigilant. Prepare to let your better judgment outweigh your emotions
                                     </p>
 
                                     <button>

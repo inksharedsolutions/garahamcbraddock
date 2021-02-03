@@ -44,7 +44,7 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                            Operation Gravelrash fulfils his long-held inteion to write a novel and second book with Superintendent Lawrence Parry, set in Queensland and Ukraine, is nearing completion with another of the ongoing series at the planning stage.
+                            Operation Gravelrash fulfils his long-held intention to write a novel and second book with Superintendent Lawrence Parry, set in Queensland and Ukraine, is nearing completion with another of the ongoing series at the planning stage.
                             </p>
 
                             <p>
