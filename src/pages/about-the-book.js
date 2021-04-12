@@ -54,7 +54,6 @@ const ATB = (props)=>{
                                     `,
                                     
                                     ebooks:{
-                                        stratton : 'https://stratton-press.com/books/operation-gravelrash/',
                                         barnes: 'https://www.barnesandnoble.com/w/operation-gravelrash-graham-c-braddock/1122738056?ean=9781947355156',
                                         amazon :'https://www.amazon.com/Operation-Gravelrash-Graham-Braddock-ebook/dp/B0779JYVSQ/ref=sr_1_1?keywords=9781947355156&qid=1554241874&s=gateway&sr=8-1', 
                                     },
